@@ -1,0 +1,7 @@
+total 14
+drwxr-xr-x 1 Curso Tarde 197121   0 Apr 12 11:30 ./
+drwxr-xr-x 1 Curso Tarde 197121   0 Apr 12 10:54 ../
+drwxr-xr-x 1 Curso Tarde 197121   0 Apr 12 11:23 .git/
+-rw-r--r-- 1 Curso Tarde 197121 453 Mar 27 10:10 BinarioADecimal.psc
+-rw-r--r-- 1 Curso Tarde 197121 263 Mar 28 09:18 CalcularAreaTriangulo.psc
+-rw-r--r-- 1 Curso Tarde 197121   0 Apr 12 11:30 archivo.txt
